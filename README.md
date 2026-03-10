@@ -1,11 +1,7 @@
 # mteam-tab-opener
 # M-Team 种子详情批量打开器 (Tampermonkey 脚本)
 
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-安装-brightgreen)](https://greasyfork.org/zh-CN/scripts/xxxxx) 
-
 一个 Tampermonkey 油猴脚本，为 [M-Team](https://m-team.cc) 种子列表页添加浮动按钮组，支持一键打开前 N 个、下 N 个或全部种子详情页，并自动记录打开进度。所有链接均在后台标签页打开，不影响当前浏览。
-
-![按钮截图](screenshot/buttons.png)
 
 ## 功能特点
 
