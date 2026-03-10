@@ -16,7 +16,7 @@
 
 1. 安装浏览器扩展 Tampermonkey（[Chrome 版](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Firefox 版](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/)）。
 2. 点击以下链接安装脚本（或直接复制 `mteam-tab-opener.user.js` 内容新建脚本）：
-   - [安装脚本]([https://github.com/你的用户名/mteam-tab-opener/raw/main/mteam-tab-opener.user.js](https://github.com/sehnshuyulv/mteam-tab-opener/blob/main/mteam-tab-opener.js)) 
+   - [安装脚本](https://github.com/sehnshuyulv/mteam-tab-opener/blob/main/mteam-tab-opener.js) 
 3. 访问任意 M-Team 种子列表页面（如首页、分区页、搜索结果页），右下角会出现操作按钮。
 
 ## 使用说明
